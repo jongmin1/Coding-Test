@@ -16,10 +16,6 @@ def dfs(graph, x, y, n, count=[0]):
     return count[0]
 
 
-def bfs(graph, x, y, n):
-    
-    return 1
-
 N = int(input())
 
 graph = []
