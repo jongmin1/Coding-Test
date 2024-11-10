@@ -19,7 +19,7 @@ def sol(x, y, n):
                 sol(x, y+m, m) 
                 sol(x+m, y, m) 
                 sol(x+m, y+m, m) 
-                # return 
+                return 
                 
     if color == 0:
         rst[0] += 1
