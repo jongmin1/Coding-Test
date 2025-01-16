@@ -1,3 +1,9 @@
+'''
+시도 횟수 : 3
+참고 여부 : 세모(하기 싫어서 로직 검증만 함)
+리스트 비어있을 때 sort하면 런타임 에러뜸..
+'''
+
 import sys
 input = sys.stdin.readline
 
